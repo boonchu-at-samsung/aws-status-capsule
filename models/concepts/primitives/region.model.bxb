@@ -1,0 +1,6 @@
+text (region) {
+  description (AWS Region Name)
+  features {
+    transient
+  }
+}

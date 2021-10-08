@@ -1,0 +1,9 @@
+// https://bixbydevelopers.com/dev/docs/reference/type/capsule-info.dispatch-name#how-named-dispatch-works
+
+hints {
+  uncategorized {
+    hint (Ask AWS Status Agent to help me choose a status)
+    hint (With AWS Status Agent, find a ec2 status)
+    hint (Using AWS Status Agent, recommend a movie from last year)
+  }
+}

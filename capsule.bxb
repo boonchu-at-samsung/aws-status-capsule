@@ -1,5 +1,5 @@
 capsule {
-  id (status.cloud)
+  id (devops4sra.cloud_status)
   version (0.1.0)
   format (3)
   targets {

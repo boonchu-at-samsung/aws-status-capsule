@@ -1,0 +1,6 @@
+text (service) {
+  description (AWS Service Name)
+  features {
+    transient
+  }
+}

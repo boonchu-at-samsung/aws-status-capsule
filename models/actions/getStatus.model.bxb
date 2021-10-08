@@ -1,8 +1,12 @@
 action (getStatus) {
   type (Search)
   collect {
-    input (resource) {
-      type (resource)
+    input (region) {
+      type (region)
+      min (Optional) max (One)
+    }
+    input (service) {
+      type (service)
       min (Optional) max (One)
     }
   }

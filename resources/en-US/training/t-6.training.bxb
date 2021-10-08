@@ -1,0 +1,4 @@
+train (t-6vtwlqvk0f4l2t4zaresyz8qw) {
+  utterance ("[g:getStatus] Find me a current status of (service)[v:service] from (region)[v:region]")
+  last-modified (1633736741394)
+}

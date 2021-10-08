@@ -1,4 +1,4 @@
-# New Capsule
+# AWS Status Capsule
 
 Welcome to AWS Status Capsule!
 

@@ -3,7 +3,7 @@ capsule-info {
   developer-name (Viv Labs)
   icon-asset (/images/icons/aws.png)
   description ("Example aws status capsule. A great starting point to build a capsule for Bixby")
-  dispatch-name (Sample AWS Resource Status)
+  dispatch-name (AWS Status Agent)
   website-url (http://viv.ai/)
   search-keywords {
     keyword (fact)
