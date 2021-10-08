@@ -1,0 +1,4 @@
+dialog (NoResult) {
+  match: content
+  template("Nothing found")
+}

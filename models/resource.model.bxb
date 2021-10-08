@@ -1,0 +1,6 @@
+text (resource) {
+  description (AWS Resource Name)
+  features {
+    transient
+  }
+}
